@@ -82,7 +82,4 @@ Develop a classification model to detect heart disease and visualize key insight
 - Feature importance analysis
 - Deployment via Streamlit or Flask
 
----
-
-## 📁 Project Structure
-
+----------------------------------------------------
